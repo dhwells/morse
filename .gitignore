@@ -1,0 +1,13 @@
+*.jpg
+*.JPG
+*.png
+*.txt
+*.ods
+*.bas
+*~
+*#
+*.orig
+*.dat
+morse
+docs/*
+retained/*
